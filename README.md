@@ -2,6 +2,8 @@
 
 Click here to see = [Dashbaord](https://app.powerbi.com/view?r=eyJrIjoiZTIyNDg0MzktOGFmMy00OGJhLWFlNDgtNjA2ZjRjNWZiNzY1IiwidCI6IjIxZTVkZWI1LTk1ZjYtNDBlNS1hODFkLTFkOGE0MGRmNTZmNCJ9)
 
+Data source = [kaggle](https://www.kaggle.com/datasets/nxtwaveda/data-analyst)
+
 Insights 
 *	We have generated a total of 360 leads. This indicates a significant level of interest and potential customer engagement with our offerings.
 *	The conversion rate of leads to demo classes is 0.54, indicating that approximately 54% of the leads successfully attended the demo sessions. This suggests a positive level of interest and engagement from the leads in exploring the product/service further. 
