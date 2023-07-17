@@ -9,6 +9,10 @@ Insights
 *	The conversion rate of leads to demo classes is 0.54, indicating that approximately 54% of the leads successfully attended the demo sessions. This suggests a positive level of interest and engagement from the leads in exploring the product/service further. 
 *	A total of 194 leads have actively engaged by watching the session.
 *	The average demo watch time is 56.6%, indicating that, on average, leads engage with our demo sessions for more than half of the duration.
+
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/7738b166-7a83-469d-b417-d7f2a9010100)
+
+  
 *	Our lead pool comprises 44.72% females and 55.28% males. This gender distribution highlights a relatively balanced representation, indicating an opportunity to target and engage both male and female audiences effectively.
 *	Our lead sources showcase a diverse mix of channels contributing to our overall lead generation. Social media, with 24.17% of the leads, SEO, at 20.83%, Email marketing, accounting for 20.28%, User referrals, contributing to 18.33% of the leads, and Our website, generating 16.39% of the leads.
 *	Among the leads, the highest percentage (36.61%) holds a Bachelor of Technology (B.Tech) degree. This suggests that targeting individuals with technical backgrounds can be an effective strategy for lead generation.
