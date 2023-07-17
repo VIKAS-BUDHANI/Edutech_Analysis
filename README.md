@@ -14,7 +14,15 @@ Insights
 
   
 *	Our lead pool comprises 44.72% females and 55.28% males. This gender distribution highlights a relatively balanced representation, indicating an opportunity to target and engage both male and female audiences effectively.
+
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/63af8105-29c2-4ab9-8059-1bc98f1d5125)
+
+  
 *	Our lead sources showcase a diverse mix of channels contributing to our overall lead generation. Social media, with 24.17% of the leads, SEO, at 20.83%, Email marketing, accounting for 20.28%, User referrals, contributing to 18.33% of the leads, and Our website, generating 16.39% of the leads.
+
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/be4564d8-6788-47f8-b359-a023a4e54aaf)
+
+  
 *	Among the leads, the highest percentage (36.61%) holds a Bachelor of Technology (B.Tech) degree. This suggests that targeting individuals with technical backgrounds can be an effective strategy for lead generation.
 *	A significant portion (32.5%) of leads are actively looking for job opportunities. This indicates that positioning our product or service as a solution to their job-related needs can be a compelling value proposition.
 *	Degree holders represent 11.94% of the leads. This group may have a diverse range of educational backgrounds, indicating potential opportunities to tailor our messaging to their specific interests and preferences.
