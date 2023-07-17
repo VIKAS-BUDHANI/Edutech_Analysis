@@ -55,10 +55,12 @@ Insights
 
  Additionally, under SNR502MG, JNR1005MG managed 20 leads and completed 126 calls.
  ![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/3d49cdbe-5c36-4d6c-a980-cdda2e96e05c)
-
- These figures indicate potential areas for improvement in lead management, call efficiency, and conversion rates for these junior sales managers.
+These figures indicate potential areas for improvement in lead management, call efficiency, and conversion rates for these junior sales managers.
 *	The primary reason for leads not attending the demo classes is their preference for offline or in-person classes. This indicates a desire for face-to-face interaction and hands-on learning experiences
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/491730aa-1742-48f4-9472-d686ad455968)
+
 *	The primary reason for leads not being interested to consider that they can’t afford it.
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/2e33675c-a6d8-4483-891a-c9e47e7e73ed)
 
 
 Suggestions to the business team –
