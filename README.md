@@ -29,10 +29,34 @@ Insights
 *	Leads with intermediate education level account for 11.39% of the total. Considering this segment's educational attainment, we can customize our marketing efforts to highlight how our product or service can enhance their career prospects or further education.
 *	A smaller percentage (3.33%) of leads have completed their intermediate education, indicating an opportunity to target this group with tailored messaging that emphasizes how our offering aligns with their aspirations and future plans.
 *	Leads who have completed 10th grade make up only 2.22% of the total. While this segment represents a smaller portion, it may still be worthwhile to engage with them by showcasing the benefits and opportunities our product or service can offer, even at an earlier stage of education
+
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/bc65e682-e73f-43c8-b5aa-fcced94276e6)
+
 *	18 to 20 age is the most priorities age group. He is at the beginning face of his career we can guide him by introducing our product. 
+
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/c58d5738-21c4-46bf-8ac3-ac5577aaecfa)
+
 *	Hyderabad leads the way with 21.39% of the total leads, closely followed by Visakhapatnam at 21.11%. Kochi showcases a strong presence at 18.61%, while Bengaluru and Mumbai contribute 14.17% and 13.33% respectively. Chennai demonstrates a valuable lead pool at 11.39%.
+
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/635a3b2a-f3e6-41ca-bd65-79516a0024b2)
+
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/aa3e8628-1a9d-4ae0-a07a-767178945b25)
+
 *	There are 16 juniors under the sales manager everyone is aligned with a few leads.
-*	Among the sales managers under SNR503MG, JNR1007MG has shown comparatively lower performance, having been assigned 20 leads and completing 131 calls. Similar performance trends are observed under SNR501MG, with JNR1002MG handling 20 leads and completing 121 calls, as well as under SNR504MG, where JNR1013MG has been assigned 20 leads and completed 130 calls. Additionally, under SNR502MG, JNR1005MG managed 20 leads and completed 126 calls. These figures indicate potential areas for improvement in lead management, call efficiency, and conversion rates for these junior sales managers.
+  
+*	Among the sales managers under SNR503MG, JNR1007MG has shown comparatively lower performance, having been assigned 20 leads and completing 131 calls.
+![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/c1a492b7-a828-4cdb-a7e7-fff9629bb06f)
+
+ Similar performance trends are observed under SNR501MG, with JNR1002MG handling 20 leads and completing 121 calls,
+ ![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/4943786b-a092-4f8f-a9f9-9d4d7d575471)
+
+ as well as under SNR504MG, where JNR1013MG has been assigned 20 leads and completed 130 calls.
+ ![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/380c6a6e-d10e-429a-a797-d88117d4d8d5)
+
+ Additionally, under SNR502MG, JNR1005MG managed 20 leads and completed 126 calls.
+ ![image](https://github.com/VIKAS-BUDHANI/Edutech_Analysis/assets/111237089/3d49cdbe-5c36-4d6c-a980-cdda2e96e05c)
+
+ These figures indicate potential areas for improvement in lead management, call efficiency, and conversion rates for these junior sales managers.
 *	The primary reason for leads not attending the demo classes is their preference for offline or in-person classes. This indicates a desire for face-to-face interaction and hands-on learning experiences
 *	The primary reason for leads not being interested to consider that they can’t afford it.
 
